@@ -13,7 +13,7 @@ Let's get started!
 pip install pyqrcode
 ```
 ```sh
-pip install png
+pip install pypng
 ```
 
 # Step 2 :Import all libraries
