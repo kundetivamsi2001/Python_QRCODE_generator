@@ -4,10 +4,10 @@ import png
 from pyqrcode import QRCode
 
 #your website or webpage to which we want to create QRCODE
-s="www.instagram.com/vamsikundeti2001"
+s = "https://www.example.com/"
 
 #STEP 1:crete url for the given webpage by using pyqrcode module
-url=pyqrcode.create(s)
+url = pyqrcode.create(s)
 
 #STEP 2:svg will create XML file
 ********************SVG stands for Scalable Vector Graphics SVG is used to define graphics for the Web*********************************
