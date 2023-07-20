@@ -26,7 +26,7 @@ import png
 from pyqrcode import QRCode
 ```
 
-# Step 3 : Generate QRCode using `QRCode` method
+# Step 3 : Generate QRCode using `QRCode` module
 
 Give your url to which you want to create a QRCode and create QRCODE using `qrcode.create()` method.
 
